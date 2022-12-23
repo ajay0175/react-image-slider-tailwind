@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import {BsChevronCompactLeft, BschevronCompactLeft, BsChevronCompactRight} from 'react-icons/bs';
+import {BsChevronCompactLeft, BsChevronCompactRight} from 'react-icons/bs';
 import {RxDotFilled} from 'react-icons/rx';
 
 function App() {
